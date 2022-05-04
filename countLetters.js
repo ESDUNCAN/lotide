@@ -15,7 +15,7 @@ const countLetters = function (letters) {
 }
 
 
-console.log(countLetters('You are the best Thank You very much'))
+console.log(countLetters('Yolo'))
 
 
 
